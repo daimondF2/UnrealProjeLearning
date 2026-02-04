@@ -1,0 +1,53 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/unreal Projects/learningProject/Content/firstLevel.umap",
+				"D:/unreal Projects/learningProject/Content/Maps/firstLevel.umap",
+				"D:/unreal Projects/learningProject/Content/OgGamemode.uasset",
+				"D:/unreal Projects/learningProject/Content/character/inputs/IA_move.uasset",
+				"D:/unreal Projects/learningProject/Content/character/inputs/IMC_OurGameInputs.uasset",
+				"D:/unreal Projects/learningProject/Content/character/inputs/IA_look.uasset",
+				"D:/unreal Projects/learningProject/Content/character/inputs/IA_jump.uasset",
+				"D:/unreal Projects/learningProject/Content/UI/HealthSystem.uasset",
+				"D:/unreal Projects/learningProject/Content/GameBP/Og_GameState.uasset",
+				"D:/unreal Projects/learningProject/Content/GameBP/Og_HUD.uasset",
+				"D:/unreal Projects/learningProject/Content/GameBP/Og_playerCharacter.uasset",
+				"D:/unreal Projects/learningProject/Content/GameBP/Og_PlayerController.uasset",
+				"D:/unreal Projects/learningProject/Content/GameBP/Og_PlayerState.uasset",
+				"D:/unreal Projects/learningProject/Content/GameBP/OurGame.uasset",
+				"D:/unreal Projects/learningProject/Content/GameBP/OgGamemode.uasset",
+				"D:/unreal Projects/learningProject/Content/BluePrint/Actor/BP_Coin.uasset",
+				"D:/unreal Projects/learningProject/Content/Sounds/Children_Yay____Sound_Effect.uasset",
+				"D:/unreal Projects/learningProject/Content/Props/Coin/Coin.uasset",
+				"D:/unreal Projects/learningProject/Content/Props/Coin/CoinTextures/Coin2_BaseColor.uasset",
+				"D:/unreal Projects/learningProject/Content/Props/Coin/Material.uasset",
+				"D:/unreal Projects/learningProject/Content/Sounds/clink1.uasset",
+				"D:/unreal Projects/learningProject/Content/Images/pixil-frame-0.uasset",
+				"D:/unreal Projects/learningProject/Content/BluePrint/Actor/BP_SuperCoin.uasset",
+				"D:/unreal Projects/learningProject/Content/Props/Coin/NewMaterial.uasset",
+				"D:/unreal Projects/learningProject/Content/GameBP/MovingPlatform.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/BasicShapeMaterial.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/Coin2_BaseColor.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/CoinMesh.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/Cube.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/MI_ProcGrid.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/M_SimpleSkyDome.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/Material.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/NewMaterial.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/Plane.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/SM_SkySphere.uasset",
+				"D:/unreal Projects/learningProject/Content/Maps/SM_Template_Map_Floor.uasset",
+				"D:/unreal Projects/learningProject/Content/OurGame.uasset",
+				"D:/unreal Projects/learningProject/Content/Og_playerCharacter.uasset",
+				"D:/unreal Projects/learningProject/Content/Og_GameState.uasset",
+				"D:/unreal Projects/learningProject/Content/Og_HUD.uasset",
+				"D:/unreal Projects/learningProject/Content/Og_PlayerController.uasset",
+				"D:/unreal Projects/learningProject/Content/Og_PlayerState.uasset"
+			]
+		}
+	]
+}
